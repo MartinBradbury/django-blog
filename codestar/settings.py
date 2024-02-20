@@ -32,7 +32,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['8000-martinbradbu-djangoblog-coknacx9ja2.ws-eu108.gitpod.io', '.herokuapp.com', ]
 
 
-# Application definition
+# Application definition.
 
 INSTALLED_APPS = [
     'django.contrib.admin',

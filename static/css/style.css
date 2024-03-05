@@ -156,6 +156,10 @@ body {
     color: rgb(172, 175, 175);
 }
 
+.profile_img {
+    width: 75%;
+}
+
 .approval {
     color: rgb(222, 146, 168);
 }
